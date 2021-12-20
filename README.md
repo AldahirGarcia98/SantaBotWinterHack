@@ -1,7 +1,7 @@
 # SanraBotWinterHack
  Chat bot que te permite hablar con Santa y ayudarte a escoger un posible regalo navideño.
  
-SLA DE LA APLICAION:
+SLA DE LA APLICACION:
 SLA -> 99.7%
 
 TIEMPO DE INACTIVIDAD AL AÑO:
