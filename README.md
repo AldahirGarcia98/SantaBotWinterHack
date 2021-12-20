@@ -16,6 +16,9 @@ Vídeo do TikTok de jorge12e463 (@jorge12e463). SANTABOT 🌲🌲🌲. sonido or
 COSTO TOTAL DE PROPIEDAD 3 AÑOS:
 Durante 3 año (s) con Microsoft Azure, su ahorro de costos estimado podría ser de hasta $ 686,711
 
+COSTO TOTAL POR MES:
+El costo total por mes seria de: USD 307.00
+
 LINK DE LA APLICACION:
 http://magicmail.azurewebsites.net/index.html
 
