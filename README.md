@@ -1,5 +1,6 @@
-# SanraBotWinterHack
- Chat bot que te permite hablar con Santa y ayudarte a escoger un posible regalo navideño.
+# SanraBotWinterHacK
+Proyecto: MAGIC MAIL
+Chat bot que te permite hablar con Santa y ayudarte a escoger un posible regalo navideño.
  
 SLA DE LA APLICACION:
 SLA -> 99.7%
@@ -7,5 +8,10 @@ SLA -> 99.7%
 TIEMPO DE INACTIVIDAD AL AÑO:
 1 dia 2hrs 16min y 48seg
 
-![sobre](https://user-images.githubusercontent.com/94207938/146700724-f8dab1f0-c67f-480c-a79b-1aa3b371df54.png)
+TIKTOK: [07:57 p. m.] Jorge Luis Rodríguez
+https://vm.tiktok.com/ZM83DWwmN/
+jorge12e463 (@jorge12e463) no TikTok
+Vídeo do TikTok de jorge12e463 (@jorge12e463). SANTABOT 🌲🌲🌲. sonido original.
+
+
 
